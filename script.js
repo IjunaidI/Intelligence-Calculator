@@ -1,4 +1,4 @@
-let intMeters = ["Dumb as a Chicken","Imbecile","a Idiot","Below Average","Average","Above Average","Intelligent","Genius","God Gifted","Are you Einstein?"]
+let intMeters = ["Dumb as a Chicken","Imbecile","a Idiot","Below Average","Average","Above Average","Intelligent","Genius","God Gifted","Einstein or something?"]
 		
 function calculate() {
 	if (document.querySelector('input').value === "") {
