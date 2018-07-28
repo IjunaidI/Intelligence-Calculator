@@ -73,3 +73,16 @@ p{
 	font-size: 46px;
 	color: black;
 }
+
+@media screen and (max-width: 450px) {
+    .btn-clear{
+        font-weight: bold;
+        padding-left: 1px;
+        padding-right: 1px;
+    }
+    .mycontainer{
+        width: 300px;
+    
+    
+}
+}
